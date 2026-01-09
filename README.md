@@ -23,7 +23,7 @@ Subscription / credit system for usage limits
 
 Frontend:
 
-Next.js / React
+Next.js / React/
 
 TailwindCSS / shadcn UI
 
